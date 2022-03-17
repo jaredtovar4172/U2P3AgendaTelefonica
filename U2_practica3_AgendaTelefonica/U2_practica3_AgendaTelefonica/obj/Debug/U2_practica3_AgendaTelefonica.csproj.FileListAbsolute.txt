@@ -1,0 +1,12 @@
+C:\Users\jared\source\repos\U2_practica3_AgendaTelefonica\U2_practica3_AgendaTelefonica\bin\Debug\U2_practica3_AgendaTelefonica.exe.config
+C:\Users\jared\source\repos\U2_practica3_AgendaTelefonica\U2_practica3_AgendaTelefonica\bin\Debug\U2_practica3_AgendaTelefonica.exe
+C:\Users\jared\source\repos\U2_practica3_AgendaTelefonica\U2_practica3_AgendaTelefonica\bin\Debug\U2_practica3_AgendaTelefonica.pdb
+C:\Users\jared\source\repos\U2_practica3_AgendaTelefonica\U2_practica3_AgendaTelefonica\obj\Debug\U2_practica3_AgendaTelefonica.csproj.AssemblyReference.cache
+C:\Users\jared\source\repos\U2_practica3_AgendaTelefonica\U2_practica3_AgendaTelefonica\obj\Debug\U2_practica3_AgendaTelefonica.Form1.resources
+C:\Users\jared\source\repos\U2_practica3_AgendaTelefonica\U2_practica3_AgendaTelefonica\obj\Debug\U2_practica3_AgendaTelefonica.Properties.Resources.resources
+C:\Users\jared\source\repos\U2_practica3_AgendaTelefonica\U2_practica3_AgendaTelefonica\obj\Debug\U2_practica3_AgendaTelefonica.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\U2_practica3_AgendaTelefonica\U2_practica3_AgendaTelefonica\obj\Debug\U2_practica3_AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\U2_practica3_AgendaTelefonica\U2_practica3_AgendaTelefonica\obj\Debug\U2_practica3_AgendaTelefonica.exe
+C:\Users\jared\source\repos\U2_practica3_AgendaTelefonica\U2_practica3_AgendaTelefonica\obj\Debug\U2_practica3_AgendaTelefonica.pdb
+C:\Users\jared\source\repos\U2_practica3_AgendaTelefonica\U2_practica3_AgendaTelefonica\obj\Debug\U2_practica3_AgendaTelefonica.csproj.ResolveComReference.cache
+C:\Users\jared\source\repos\U2_practica3_AgendaTelefonica\U2_practica3_AgendaTelefonica\obj\Debug\U2_practica3_AgendaTelefonica.Datos.resources
